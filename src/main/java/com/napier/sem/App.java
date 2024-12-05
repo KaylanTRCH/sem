@@ -24,6 +24,9 @@ public class App {
             a.connect(args[0], Integer.parseInt(args[1]));
         }
 
+        System.out.println(a.printPopulationsCountry("United Kingdom"));
+
+
         // Disconnect from database
         a.disconnect();
     }
