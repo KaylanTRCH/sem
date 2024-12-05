@@ -13,3 +13,5 @@ Develop branch:
 [![codecov](https://codecov.io/github/KaylanTRCH/sem/graph/badge.svg?token=D8EMNYEI31)](https://codecov.io/github/KaylanTRCH/sem)
 
 Latest
+
+25 requirements of 32 have been implemented, which is 78.125%
